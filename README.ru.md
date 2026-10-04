@@ -153,4 +153,8 @@ sudo bash scripts/cleanup.sh
 
 ## Лицензия
 
-MIT — см. [LICENSE](LICENSE).
+**CC BY-NC 4.0** — [Creative Commons Attribution‑NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). См. [LICENSE](LICENSE).
+
+Можно использовать, распространять и изменять этот гайд и скрипты в **некоммерческих** целях с указанием авторства. **Коммерческое использование запрещено.**
+
+© 2026 SqKruch

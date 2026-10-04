@@ -154,4 +154,8 @@ Written from a real, working macOS install of OpenWrt 25.12.5 on an hAP ac². Co
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+**CC BY-NC 4.0** — [Creative Commons Attribution‑NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). See [LICENSE](LICENSE).
+
+You may use, share, and adapt this guide and its scripts for **non‑commercial** purposes, with attribution. **Commercial use is not permitted.**
+
+© 2026 SqKruch
